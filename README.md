@@ -112,3 +112,19 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+# Download File
+It will only download the file if it doesn't exist. If you put the data.zip in the source folder it won't download from the web
+
+# Plots Created
+
+### Plot 1
+![plot of chunk unnamed-chunk-5](plot1.png) 
+
+### Plot 2
+![plot of chunk unnamed-chunk-5](plot2.png) 
+
+### Plot 3
+![plot of chunk unnamed-chunk-5](plot3.png) 
+
+### Plot 4
+![plot of chunk unnamed-chunk-5](plot4.png) 
